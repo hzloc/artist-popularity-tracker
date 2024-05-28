@@ -1,0 +1,11 @@
+countries:
+#ISO3166-1 standard country name
+  - Azerbaijan
+  - Germany
+  - Poland
+  - Spain
+  - Japan
+  - Georgia
+  - Russia
+page: 1
+limit: 50
