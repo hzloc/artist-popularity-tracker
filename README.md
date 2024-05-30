@@ -2,6 +2,8 @@
 
 ## Overview
 
+![workstructure](/imgs/work_principle.jpg)
+
 The Artist-Tracker-ETL is a portfolio ETL (Extract, Transform, Load) project that retrieves and transforms data from two different sources and loads it into a PostgreSQL database using Docker, Apache Airflow, and Python as the primary technologies.
 
 ## Technologies Used
