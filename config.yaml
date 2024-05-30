@@ -1,11 +1,13 @@
-countries:
-#ISO3166-1 standard country name
-  - Azerbaijan
-  - Germany
-  - Poland
-  - Spain
-  - Japan
-  - Georgia
-  - Russia
-page: 1
-limit: 50
+lastfm:
+  attrs:
+    BASE_API_URL: http://ws.audioscrobbler.com/2.0
+    api_key: 798329870d802f3510235fc39b96fd19
+    countries:
+    #ISO3166-1 standard country name
+      - Azerbaijan
+      - Germany
+      - Poland
+      - Spain
+      - Japan
+      - Georgia
+      - Russia

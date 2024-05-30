@@ -1,0 +1,1 @@
+from src.extract.base import Extract
